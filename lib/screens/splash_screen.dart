@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_tts/flutter_tts.dart';
 import 'package:lumina_tech/screens/object_detection_screen.dart';
+// created by Muhammad Umair Iqbal Awan
 
 class SplashScreen extends StatefulWidget {
   const SplashScreen({super.key});

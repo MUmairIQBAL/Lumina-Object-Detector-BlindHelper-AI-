@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:camera/camera.dart';
 import 'package:lumina_tech/screens/splash_screen.dart';
+// created by Muhammad Umair Iqbal Awan
 
 List<CameraDescription> cameras = [];
 

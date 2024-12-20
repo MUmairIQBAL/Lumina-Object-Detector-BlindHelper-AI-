@@ -9,7 +9,7 @@ import 'package:path/path.dart' as path;
 import 'package:path_provider/path_provider.dart';
 import 'package:speech_to_text/speech_to_text.dart' as stt;
 import '../main.dart';
-
+// created by Muhammad Umair Iqbal Awan
 class ObjectDetectionScreen extends StatefulWidget {
   const ObjectDetectionScreen({super.key});
 
